@@ -1,0 +1,12 @@
+******** xxx ********
+******************* GDI DUMP => Date : Tue May 15 13:40:14 2018
+
+DLL opened
+Routine connected
+STLink device connected
+Enter SWIM mode
+cSwimProgM6Y::SetTimeout()
+cSwimProgM6Y::DownloadRam()
+cSwimProgM6Y::ExecuteRam()
+cSwimProgM6Y::SetTimeout()
+**** End of GDI DUMP ****
